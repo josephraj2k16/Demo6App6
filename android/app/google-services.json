@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878866479957",
+    "firebase_url": "https://medrelease2-23392.firebaseio.com",
+    "project_id": "medrelease2-23392",
+    "storage_bucket": "medrelease2-23392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878866479957:android:83a90c333639d89f",
+        "android_client_info": {
+          "package_name": "com.example.dribbledanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878866479957-5enslmccm8l9i08kfgh8fs14vkc25pl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWKpv_RKziHjUrnkgi-45hCerMxwKrYAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878866479957-5enslmccm8l9i08kfgh8fs14vkc25pl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
